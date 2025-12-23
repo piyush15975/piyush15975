@@ -17,7 +17,6 @@
 - Obsessed with **performance, clean code, and scalability**
 - Actively preparing for **SDE-1 roles**
 
-> I focus on shipping real projects used by real users — not tutorial demos.
 
 ---
 
