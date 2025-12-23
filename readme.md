@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:piyushmishra1597@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/piyush-mishra-844105294">LinkedIn</a> •
-  <a href="https://github.com/piyush15975">GitHub</a>
+  <a href="https://linkedin.com/in/piyush-mishra-844105294">LinkedIn</a>
 </p>
 
 ---
